@@ -1,7 +1,7 @@
 # Comfort Pie Arduino firmware
 
 This repository represents the Adunio code for the Comfort Pie project to obtain data from the IoT devices in AIPL building of Universite de Lorraine.
-The codebase is fully contributed by Daniel Gonzalez (@DanielGonzalezArango).
+The codebase is fully contributed by Daniel Gonzalez (@[DanielGonzalezArango]).
 
 ## Configuration
 
